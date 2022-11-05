@@ -10,5 +10,5 @@
  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Bia-gif" height="180" style="border-radius:50px;" src="https://im3.ezgif.com/tmp/ezgif-3-358bd66b7d.gif">
+  <img align="right" alt="Bia-gif" height="200" style="border-radius:50px;" src="https://im3.ezgif.com/tmp/ezgif-3-358bd66b7d.gif">
 </div>
