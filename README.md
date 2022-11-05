@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Beatriz Medeiros!
 
 <div align="center">
   <a href="https://github.com/medeirosfbia">
@@ -10,5 +10,5 @@
  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202211/626197_46Cmnz6Q.png">
+  <img align="right" alt="Bia-gif" height="150" style="border-radius:50px;" src="https://im3.ezgif.com/tmp/ezgif-3-358bd66b7d.gif">
 </div>
