@@ -1,17 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=F0F0F0FF&vCenter=true&repeat=false&random=false&width=250&height=27&lines=Ol%C3%A1%2C+Eu+sou+a+Beatriz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=5664E2&vCenter=true&repeat=false&random=false&width=250&height=27&lines=Ol%C3%A1%2C+Eu+sou+a+Beatriz)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=F0F0F0FF&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=82&lines=-+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Estou+cursando+Desenvolvimento+de+Software+na+Fatec+de+Cotia;-+%F0%9F%93%9D+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=5664E2&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=82&lines=-+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Estou+cursando+Desenvolvimento+de+Software+na+Fatec+de+Cotia;-+%F0%9F%93%9D+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 ##
 <div align="center">
   <a href="https://github.com/medeirosfbia">
 <picture align="center">
   <source height="175em"
-    srcset="https://github-readme-stats.vercel.app/api?username=medeirosfbia&show_icons=true&bg_color=000001&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=15&include_all_commits=true&count_private=false&hide=contribs&locale=en"
+    srcset="https://github-readme-stats.vercel.app/api?username=medeirosfbia&show_icons=true&bg_color=000001&icon_color=164ABA&text_color=1255B3&title_color=1975F6&border_color=1565D4&border_radius=15&include_all_commits=true&count_private=false&hide=contribs&locale=en"
     media="(prefers-color-scheme: dark)"
   />
   <source height="175em"
-    srcset="https://github-readme-stats.vercel.app/api?username=medeirosfbia&show_icons=true&bg_color=ffffff&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=15&include_all_commits=true&count_private=false&hide=contribs&locale=en"
+    srcset="https://github-readme-stats.vercel.app/api?username=medeirosfbia&show_icons=true&bg_color=ffffff&icon_color=5664E2&text_color=22285A&title_color=3F2DE2&border_color=620096&border_radius=15&include_all_commits=true&count_private=false&hide=contribs&locale=en"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=medeirosfbia&show_icons=true" />
